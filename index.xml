@@ -6,10 +6,20 @@
     <description>Recent content on A New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 16:06:16 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 16:37:08 +0300</lastBuildDate>
     
 	<atom:link href="https://giorgosk.github.io/hugo-quick/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another Post</title>
+      <link>https://giorgosk.github.io/hugo-quick/posts/another-post/</link>
+      <pubDate>Sat, 13 Apr 2019 16:37:08 +0300</pubDate>
+      
+      <guid>https://giorgosk.github.io/hugo-quick/posts/another-post/</guid>
+      <description>Second post One paragraph
+Another paragraph</description>
+    </item>
     
     <item>
       <title>My First Post</title>
