@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://giorgosk.github.io/hugo-quick/</loc>
+    <loc>/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://giorgosk.github.io/hugo-quick/posts/another-post/</loc>
+    <loc>/posts/another-post/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://giorgosk.github.io/hugo-quick/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://giorgosk.github.io/hugo-quick/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2019-04-13T16:06:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://giorgosk.github.io/hugo-quick/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://giorgosk.github.io/hugo-quick/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
